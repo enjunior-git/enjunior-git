@@ -24,7 +24,6 @@
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/enjunior-git/enjunior-git/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=enjunior-git&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/enjunior-git/enjunior-git/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 <p>I’ve also had my fair share of experience with LLMs for coding. Though I prefer to use restrictively for personal projects, assume that my repositories include some kind of AI usage, be it for research and debugging up until AI-assisted coding in my IDE for chores and non-important projects. <a href="https://enjunior.ca/posts/2026/on-generative-ai/" rel="noreferrer noopener" target="_blank">You can read my current stance on Generative AI here if that interests you</a>. To keep it short, I believe AI should stay away from creative endeavours, and its usage in tech needs to be more thoughtful and not replace the problem-solving and creative process that professionals have been using for decades.</p>
