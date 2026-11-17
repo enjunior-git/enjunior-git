@@ -32,7 +32,7 @@
 <p>Those are technologies I’ve touched over the years. Most were ones that I experimented with here and there. Silly to have that many listed, I know, but it’s fun to look back and see how many things you’ve dabbled in.</p>
 
 <details>
-<summary>Technologies & Tools</summary>
+<summary>Click here to see a long grid of icons</summary>
 
 <div data-importer="techs" align="center">
     <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
