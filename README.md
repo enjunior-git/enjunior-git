@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Heya</h1>
+<h1 data-importer="text" align="center">Welcome</h1>
 
 <p>I’m Junior. I’ve been interested in computers ever since I was a kid, which led me to go to college for Computer Science and start a career in Web Development.</p>
 
